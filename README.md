@@ -1,8 +1,4 @@
 # SuperResolution_FinalProject
-We are:  
-Guillem Escriba U188331 242123,  
-David Pérez U188332 241375,  
-Arnau Solans U161668 216530.  
 
 Our final project builds upon the concept of Image Super Resolution.  
 Image Super Resolution is the practice of producing a High Resolution Image using Low Resolution Images as the input data.  
