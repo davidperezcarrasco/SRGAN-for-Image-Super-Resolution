@@ -1,18 +1,19 @@
-# SuperResolution_FinalProject
+# Image Super Resolution - Deep Learning Project
 
 Our final project builds upon the concept of Image Super Resolution.  
 Image Super Resolution is the practice of producing a High Resolution Image using Low Resolution Images as the input data.  
 For this purpose we will work with the architecture proposed by Super Resolution Generative Adversarial Networks (https://arxiv.org/pdf/1609.04802.pdf).  
 We will improve the forementioned architecture with the concept of Densely Connected Networks (https://arxiv.org/pdf/1608.06993.pdf).   
 We work with the dataset proposed at https://data.vision.ee.ethz.ch/cvl/DIV2K/ .   
-We apply different transformations to process said data like cropping.  
+We apply different data transformations to prepare the data.  
 
 Our repostitory contains:  
-  ·Our architecture proposed for the task.  
-  ·Our dataset constructed to conduct training and testing.  
-  ·Our results produced by experimentation (different models, plots and images produced by the best architecture) [Only the best and most differentiated results].  
-  ·Our functions to resize and crop the data.  
-  ·This README file.  
+* Our architecture proposed for the task.  
+* Our dataset constructed to conduct training and testing.  
+* Our results produced by experimentation (different models, plots and images produced by the best architecture) [Only the best and most differentiated results].  
+* Our functions to resize and crop the data.  
+* This README file.
+
 Our network is designed to produce an upscaling of x4 to the low resolution image effectively producing a Super Resolution 4 times the low resolution dimensions.  
 
 These are some of the results:
