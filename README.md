@@ -1,6 +1,6 @@
 # Image Super Resolution - Deep Learning Project
 
-**Link to project webpage: https://davidperezcarrasco.github.io/projects/3_project/**
+**Link to project webpage: https://davidperezcarrasco.github.io/projects/srgan/**
 
 Our final project builds upon the concept of Image Super Resolution.  
 Image Super Resolution is the practice of producing a High Resolution Image using Low Resolution Images as the input data.  
